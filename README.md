@@ -1,3 +1,4 @@
+<img width="1456" height="720" alt="Gemini_Generated_Image_ie6s43ie6s43ie6s" src="https://github.com/user-attachments/assets/66fcd6ef-a9fb-42af-8a04-8afeebc96b34" />
 <h1 align="center">Win11 Deployment & Optimization Utility</h1>
 
 <p align="center">
